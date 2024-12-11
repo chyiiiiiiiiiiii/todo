@@ -1,0 +1,6 @@
+class: Task
+table: task
+fields:
+  name: String
+  isDone: bool
+  createAt: DateTime

@@ -1,0 +1,4 @@
+class: TodoTasks
+
+fields:
+  tasks: List<Task>

@@ -1,0 +1,7 @@
+class: Task
+
+fields:
+  id: UuidValue
+  name: String
+  isDone: bool
+  createAt: DateTime
